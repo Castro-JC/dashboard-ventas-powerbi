@@ -22,6 +22,4 @@ Análisis comercial del comportamiento de ventas de una empresa entre 2018 y 201
 - /pbix → archivo Power BI
 - /img → capturas del dashboard
 
-## Vista del dashboard
-![Página 1](img/pagina1.png)
-![Página 2](img/pagina2.png)
+
